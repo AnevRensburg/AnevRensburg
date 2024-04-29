@@ -1,7 +1,3 @@
-# Ané Janse van Rensburg
-### Aspiring Software Developer
-<br>
-
 # Current Personal Project
 
 ### Telegram Messaging App
