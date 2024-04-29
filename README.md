@@ -22,14 +22,45 @@
 
 <h3 align="left">2024</h3>
 
+<hr>
+
 <h3 align="left">2023</h3>
 
-<h3 align="left">2022</h3>
+<hr>
 
-<h3 align="left">2021</h3>
+<h3 align="left">Commercial</h3>
+<h4 align="left">February 2021 - present</h4>
+<p>Here are all of the websites I've built for commercial use. They consist of demos, 'coming soon' sites and complete, live websites that are currently being used by businesses.</p>
+<ul>
+  <p>Commercial website for a motorcycle parts distribution business. The website was launched in February 2022 and is currently in use.</p>
+  <li><a href="https://github.com/AnevRensburg/symons-sport">symons-sport</a></li>
+  <p>Demo website for a storage cabinet supplying business.</p>
+  <li><a href="https://github.com/AnevRensburg/serendipity-demo">serendipity-demo</a></li>
+  <p>Coming-soon website for a storage cabinet supplying business.</p>
+  <li><a href="https://github.com/AnevRensburg/serendipity-soon">serendipity-soon</a></li>
+  <p>Commercial website for a storage cabinet supplying business. The website was launched in February 2023 and is currently in use.</p>
+  <li><a href="https://github.com/AnevRensburg/serendipity-storage">serendipity-storage</a></li>
+  <p>Commercial website for a rhinestones distribution business.</p>
+  <li><a href="https://github.com/AnevRensburg/dress-the-dress">dress-the-dress</a></li>
+</ul>
+
+<hr>
+
+<h3 align="left">Advanced CSS and Sass</h3>
+<h4 align="left">November 2021</h4>
+<p>The project below is part of the Advanced CSS and Sass course by <strong>Jonas Schmedtmann</strong> on Udemy.</p>
+<ul>
+  <li><a href="https://github.com/AnevRensburg/natours">natours</a></li>
+</ul>
+
+<hr>
 
 <h3 align="left">The Complete Web Development Bootcamp</h3>
 <h4 align="left">September 2020 - March 2021</h4>
+<p>All of the projects below are part of 'The Complete Web Developmetn Bootcamp' course by <strong>Dr. Angela Yu</strong> on Udemy. Some of the 
+  projects are in their own repos, but the majority are in 
+  <a href="https://github.com/AnevRensburg/the-complete-web-development-bootcamp">the-complete-web-development-bootcamp</a> 
+  repo.</p>
 <ul>
   <li><a href="https://github.com/AnevRensburg/html-my-site">html-my-site</a></li>
   <li><a href="https://github.com/AnevRensburg/css-my-site">css-my-site</a></li>
@@ -39,4 +70,6 @@
   <li><a href="https://github.com/AnevRensburg/drum-kit-game">drum-kit-game</a></li>
   <li><a href="https://github.com/AnevRensburg/the-complete-web-development-bootcamp">the-complete-web-development-bootcamp</a></li>
 </ul>
+
+<hr>
 
