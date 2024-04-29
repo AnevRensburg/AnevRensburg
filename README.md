@@ -20,7 +20,24 @@
 
 <h2 align="left">My projects</h2>
 
-<h3 align="left">2024</h3>
+<h3 align="left">The Modern Angular Bootcamp</h3>
+<h4 align="left">Januray 2024 - February 2024</h4>
+<p>All of the projects below are part of 'The Modern Angular Bootcamp' course by <strong>Stephen Grider</strong> on Udemy. While the 
+  bigger, more impressive projects are in their own repos, the others are in 
+  <a href="https://github.com/AnevRensburg/the-modern-angular-bootcamp">the-modern-angular-bootcamp</a> 
+  repo.</p>
+<ul>
+  <li><a href="https://github.com/AnevRensburg/components">components</a></li>
+  <li><a href="https://github.com/AnevRensburg/wikipedia-search">wikipedia-search</a></li>
+  <li><a href="https://github.com/AnevRensburg/email-client">email-client</a></li>
+  <li><a href="https://github.com/AnevRensburg/the-complete-web-development-bootcamp">the-complete-web-development-bootcamp</a></li>
+</ul>
+
+<hr>
+
+<h3 align="left">MEAN Stack</h3>
+<h4>date</h4>
+
 
 <hr>
 
@@ -32,16 +49,24 @@
 <h4 align="left">February 2021 - present</h4>
 <p>Here are all of the websites I've built for commercial use. They consist of demos, 'coming soon' sites and complete, live websites that are currently being used by businesses.</p>
 <ul>
-  <p>Commercial website for a motorcycle parts distribution business. The website was launched in February 2022 and is currently in use.</p>
+  <br>
+  Commercial website for a motorcycle parts distribution business. The website was launched in February 2022 and is currently in use.
   <li><a href="https://github.com/AnevRensburg/symons-sport">symons-sport</a></li>
-  <p>Demo website for a storage cabinet supplying business.</p>
+  <br>
+  Demo website for a storage cabinet supplying business.
   <li><a href="https://github.com/AnevRensburg/serendipity-demo">serendipity-demo</a></li>
-  <p>Coming-soon website for a storage cabinet supplying business.</p>
+  <br>
+  Coming-soon website for a storage cabinet supplying business.
   <li><a href="https://github.com/AnevRensburg/serendipity-soon">serendipity-soon</a></li>
-  <p>Commercial website for a storage cabinet supplying business. The website was launched in February 2023 and is currently in use.</p>
+  <br>
+  Commercial website for a storage cabinet supplying business. The website was launched in February 2023 and is currently in use.
   <li><a href="https://github.com/AnevRensburg/serendipity-storage">serendipity-storage</a></li>
-  <p>Commercial website for a rhinestones distribution business.</p>
+  <br>
+  Commercial website for a rhinestones distribution business.
   <li><a href="https://github.com/AnevRensburg/dress-the-dress">dress-the-dress</a></li>
+  <br>
+  Demo commercial website for bicycle stands.
+  <li><a href="https://github.com/AnevRensburg/bike-stand">bike-stand</a></li>
 </ul>
 
 <hr>
