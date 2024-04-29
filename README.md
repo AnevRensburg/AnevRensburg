@@ -30,13 +30,17 @@
   <li><a href="https://github.com/AnevRensburg/components">components</a></li>
   <li><a href="https://github.com/AnevRensburg/wikipedia-search">wikipedia-search</a></li>
   <li><a href="https://github.com/AnevRensburg/email-client">email-client</a></li>
-  <li><a href="https://github.com/AnevRensburg/the-complete-web-development-bootcamp">the-complete-web-development-bootcamp</a></li>
+  <li><a href="https://github.com/AnevRensburg/the-modern-angular-bootcamp">the-modern-angular-bootcamp</a></li>
 </ul>
 
 <hr>
 
 <h3 align="left">MEAN Stack</h3>
 <h4>date</h4>
+<p>The project below is part of the Advanced CSS and Sass course by <strong>Jonas Schmedtmann</strong> on Udemy.</p>
+<ul>
+  <li><a href="https://github.com/AnevRensburg/mean-stack-front-to-back">mean-stack-front-to-back</a></li>
+</ul>
 
 
 <hr>
