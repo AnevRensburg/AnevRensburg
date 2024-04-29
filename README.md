@@ -13,16 +13,14 @@ I'm making use of the following key concepts and technologies:
 * Websockets
 
 [Repo](https://github.com/AnevRensburg/telegram-app)
-
 <br>
 
-# Freelance work
+# Freelance Work
 
-I've created the following commercial websites for companies.
-I specifically did not use website generating tools like wordpress and other CMS products, in order to use and develop my HTML and CSS skills.
+I've developed the following commercial websites for companies, using Javascript, HTML, CSS with Bootstrap. 
+I decided to not use website generating tools like Wordpress and other CMS products, in order to practice what I've learned and to develop my skills.
 
-I made use of the Bootstrap CSS library.
-All the sites were designed and implemented to be mobile-friendly.
+The sites are reactive and presents well on all mobile devices as well as full-sized computer screens.
 
 ### Serendipity Storage
 Commercial website for a storage cabinet supplying business. The website was launched in February 2023 and is currently in use.
@@ -40,7 +38,7 @@ Commercial website for a motorcycle parts distribution business. The website was
   Commercial website for a rhinestones distribution business. Unfortunately the business in no longer in operation so the website is not in use anymore.
   <br>
 
-  [Repo](https://github.com/AnevRensburg/dress-the-dress) 
+  [Repo](https://github.com/AnevRensburg/dress-the-dress) | [Website](https://anevrensburg.github.io/dress-the-dress/)
 
 ### Bikestand 
 Demo commercial website for bicycle stands.
