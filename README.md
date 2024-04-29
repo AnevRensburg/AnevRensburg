@@ -28,5 +28,15 @@
 
 <h3 align="left">2021</h3>
 
-<h3 align="left">2020</h3>
+<h3 align="left">The Complete Web Development Bootcamp</h3>
+<h4 align="left">September 2020 - March 2021</h4>
+<ul>
+  <li><a href="https://github.com/AnevRensburg/html-my-site">html-my-site</a></li>
+  <li><a href="https://github.com/AnevRensburg/css-my-site">css-my-site</a></li>
+  <li><a href="https://github.com/AnevRensburg/tincat">tincat</a></li>
+  <li><a href="https://github.com/AnevRensburg/dicee-game">dicee-game</a></li>
+  <li><a href="https://github.com/AnevRensburg/simon-game">simon-game</a></li>
+  <li><a href="https://github.com/AnevRensburg/drum-kit-game">drum-kit-game</a></li>
+  <li><a href="https://github.com/AnevRensburg/the-complete-web-development-bootcamp">the-complete-web-development-bootcamp</a></li>
+</ul>
 
