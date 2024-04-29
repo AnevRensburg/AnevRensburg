@@ -68,10 +68,6 @@ I completed Stephen Grider's [course](https://www.udemy.com/course/the-modern-an
 * [components](https://github.com/AnevRensburg/components)
 * [the-modern-angular-bootcamp](https://github.com/AnevRensburg/the-modern-angular-bootcamp)
 
-### Advanced CSS and Sass
-I started working through Jonas Schmedtmann's [course](https://www.udemy.com/course/advanced-css-and-sass/) in November 2021, however, I did'nt complete it. 
-* [natours](https://github.com/AnevRensburg/natours)
-
 ### The Complete Web Development Bootcamp
 I did Dr. Angela Yu's [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) between September 2020 - March 2021. Some projects have been placed in their own repos at the time of completion, while the remaining ones were recently added to the-complete-web-development-bootcamp repo.
 * [drum-kit-game](https://github.com/AnevRensburg/drum-kit-game)
@@ -81,4 +77,8 @@ I did Dr. Angela Yu's [bootcamp](https://www.udemy.com/course/the-complete-web-d
 * [css-my-site](https://github.com/AnevRensburg/css-my-site)  
 * [html-my-site](https://github.com/AnevRensburg/html-my-site)
 * [the-complete-web-development-bootcamp](https://github.com/AnevRensburg/the-complete-web-development-bootcamp)
+
+### Advanced CSS and Sass
+I started working through Jonas Schmedtmann's [course](https://www.udemy.com/course/advanced-css-and-sass/) in November 2021; however, I didn't complete it.
+* [natours](https://github.com/AnevRensburg/natours)
 
