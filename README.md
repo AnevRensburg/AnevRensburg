@@ -2,11 +2,8 @@
 
 ### Telegram Messaging App
 Full-stack application that sends and receives messages to telegram.
-I'm building this application to make use of the various full-stack related topics that I've learned
-I'm using the MEAN stack
-* Angular
-* Nodejs with Expressjs
-* MongoDb
+I'm building this application to make use of the various full-stack related topics that I've learned.
+I'm using the MEAN stack; Angular, Nodejs with Expressjs and MongoDb.
 
 I'm making use of the following key concepts and technologies:
 * Angular routing
@@ -15,9 +12,7 @@ I'm making use of the following key concepts and technologies:
 * User authentication and authorisation
 * Websockets
 
-<br>
-
-[Repo](https://github.com/AnevRensburg/telegram-app) | Demo
+[Repo](https://github.com/AnevRensburg/telegram-app)
 
 <br>
 
