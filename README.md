@@ -8,7 +8,7 @@
 
 I'm completing my final year of high school in May 2024.
 
-I'm currently working on a full-stack messaging application that communicates with a telegram user via a telegram bot. I'm using the MEAN stack for this project. Additionally, I've also designed and implemented several commercial websites for various companies. I've also completed several software development courses.
+I'm currently working on a full-stack messaging application that communicates with a telegram user via a telegram bot. I'm using the MEAN stack for this project. Additionally, I've  designed and implemented several commercial websites for various companies. I've also completed several software development courses.
 
 Please see my portfolio below for detailed information and links to source code and demos.
 
