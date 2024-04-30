@@ -14,9 +14,9 @@ Please see my portfolio below for detailed information and links to source code 
 
 ### Portfolio
 
-**1. Current Personal Project**
-- [Telegram Messaging App](https://github.com/AnevRensburg/telegram-app)<br>
-Full-stack messaging application that communicates with a telegram user via a telegram bot.<br>
+**1. [Telegram Messaging App](https://github.com/AnevRensburg/telegram-app)**<br>
+
+My current project is a full-stack messaging application that communicates with a telegram user via a telegram bot.<br>
 I'm building this application to make use of the various full-stack related topics that I've learned. I'm using the MEAN stack.<br>
 
 *[#angular](https://angular.io) [#nodejs](https://nodejs.org) [#expressjs](https://expressjs.com) [#mongodb](https://www.mongodb.com/) [#html](https://www.w3.org/html/) [#scss](https://sass-lang.com)*
