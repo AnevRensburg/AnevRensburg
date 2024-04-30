@@ -1,73 +1,45 @@
-# Current Personal Project
+<center><h3>Ané Janse van Rensburg</h3></center>
+<center><em>Aspiring Software Developer</em></center>
 
-### Telegram Messaging App
-Full-stack application that sends and receives messages to telegram.
-I'm building this application to make use of the various full-stack related topics that I've learned.
-I'm using the MEAN stack; Angular, Nodejs with Expressjs and MongoDb.
-
-I'm making use of the following key concepts and technologies:
-* Angular routing
-* RxJs
-* JSON Web Tokens
-* User authentication and authorisation
-* Websockets
-
-[Repo](https://github.com/AnevRensburg/telegram-app)
+<hr>
 <br>
 
-# Freelance Work
+### Hi there 👋
 
-I've developed the following commercial websites for companies, using Javascript, HTML, CSS with Bootstrap. 
-I decided to not use website generating tools like Wordpress and other CMS products, in order to practice what I've learned and to develop my skills.
+I'm completing my final year of high school in May 2024.
 
-The sites are reactive and presents well on all mobile devices as well as full-sized computer screens.
+I'm currently working on a full-stack messaging application that communicates with a telegram user via a telegram bot. I'm using the MEAN stack for this project. I've also designed and implemented several commercial websites for companies.  I've also completed several software development courses.
 
-### Serendipity Storage
-Commercial website for a storage cabinet supplying business. The website was launched in February 2023 and is currently in use.
-<br>
+Please see my portfolio below for detailed information and links to source code and demos.
 
-[Repo](https://github.com/AnevRensburg/serendipity-storage) | [Website](https://serendipitystorage.co.za/)
+### Portfolio
 
-### Symons Sport International
-Commercial website for a motorcycle parts distribution business. The website was launched in February 2022 and is currently in use.
-<br>
+1. <span style="font-weight:600">Current Personal Project</span>
+   - [Telegram Messaging App](#telegram-messaging-app)
+    <br><span style="color:grey">Full-stack messaging application that communicates with a telegram user via a telegram bot.
+    <br>I'm building this application to make use of the various full-stack related topics that I've learned. I'm using the MEAN stack.</span>
+    <br><em>[Angular](#angular) [Nodejs](#nodejs) [Expressjs](#expressjs) [MongoDb](#mongodb) [HTML](#html) [SCSS](#scss)</em>
+    <br><br>
+2. <span style="font-weight:600">Freelance Work</span>
+    <br><span style="color:grey">Below are websites that I designed and implemented from scratch for customers.
+    <br>The sites are mostly static, and I steered clear from using website generating tools like wordpress and CMS products, in order to use and develop my HTML and CSS skills.
+    All the sites were designed and implemented to be mobile-friendly.
+    <br>For styling I made use of the Bootstrap CSS library.</span>
+    - [Serendipity Storage](#serendipity-storage)
+    - [Symons Sport International](#symons-sport-international)
+    - [Dress the Dress](#dress-the-dress)
+    - [Bikestand](#bikestand)
+    <br><em>[HTML](#html) [SCSS](#scss)</em>
+    <br><br>
+3. <span style="font-weight:600">Software Development Courses</span>
+    <br><span style="color:grey">As part of my high school programming curriculum, I completed the courses below which also included several projects, some simple and some advanced.  All the code that I produced for these courses, together with descriptions of the projects, can be browsed below.</span>
+    - [Modern Angular Bootcamp](#modern-angular-bootcamp)
+    - [MEAN Stack Front To Back](#mean-stack-front-to-back)
+    - [The Complete Web Development Bootcamp](#the-complete-web-development-bootcamp)
+    - [Advanced CSS and Sass](#advanced-css-and-sass)
+    <br><br>
+4. <span style="font-weight:600">Other Projects<span>
 
-[Repo](https://github.com/AnevRensburg/symons-sport)  |  [Website](https://www.symons-sport.co.za/)
 
-### Dress the Dress
-  Commercial website for a rhinestones distribution business. Unfortunately the business in no longer in operation so the website is not in use anymore.
-  <br>
-
-  [Repo](https://github.com/AnevRensburg/dress-the-dress) | [Website](https://anevrensburg.github.io/dress-the-dress/)
-
-### Bikestand 
-Demo commercial website for bicycle stands.
-<br>
-
-[Repo](https://github.com/AnevRensburg/bike-stand) | [Website](https://anevrensburg.github.io/bike-stand/)
-
-<br>
-
-# Courses Completed
-
-### Modern Angular Bootcamp
-I completed Stephen Grider's [course](https://www.udemy.com/course/the-modern-angular-bootcamp) in February 2024. Some standout projects have their own repos, while the remaining ones are housed in the-modern-angular-bootcamp repo.
-* [email-client](https://github.com/AnevRensburg/email-client)
-* [wikipedia-search](https://github.com/AnevRensburg/wikipedia-search)
-* [components](https://github.com/AnevRensburg/components)
-* [the-modern-angular-bootcamp](https://github.com/AnevRensburg/the-modern-angular-bootcamp)
-
-### The Complete Web Development Bootcamp
-I did Dr. Angela Yu's [bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) between September 2020 - March 2021. Some projects have been placed in their own repos at the time of completion, while the remaining ones were recently added to the-complete-web-development-bootcamp repo.
-* [drum-kit-game](https://github.com/AnevRensburg/drum-kit-game)
-* [simon-game](https://github.com/AnevRensburg/simon-game)
-* [dicee-game](https://github.com/AnevRensburg/dicee-game)
-* [tincat](https://github.com/AnevRensburg/tincat)
-* [css-my-site](https://github.com/AnevRensburg/css-my-site)  
-* [html-my-site](https://github.com/AnevRensburg/html-my-site)
-* [the-complete-web-development-bootcamp](https://github.com/AnevRensburg/the-complete-web-development-bootcamp)
-
-### Advanced CSS and Sass
-I started working through Jonas Schmedtmann's [course](https://www.udemy.com/course/advanced-css-and-sass/) in November 2021; however, I didn't complete it.
-* [natours](https://github.com/AnevRensburg/natours)
-
+<br><br>
+______________________
