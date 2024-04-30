@@ -28,7 +28,7 @@ I have designed and implemented the following websites from scratch for clients,
 - [Serendipity Storage](https://github.com/AnevRensburg/serendipity-storage)
 - [Symons Sport International](https://github.com/AnevRensburg/symons-sport)
 - [Dress the Dress](https://github.com/AnevRensburg/dress-the-dress)
-- [Bikestand](https://github.com/AnevRensburg/bike-stand)
+- [Bike Stand](https://github.com/AnevRensburg/bike-stand)
 <br><br>
 
 **3. Software Development Courses**<br>
