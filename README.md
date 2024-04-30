@@ -8,7 +8,7 @@
 
 I'm completing my final year of high school in May 2024.
 
-I'm currently working on a full-stack messaging application that communicates with a telegram user via a telegram bot. I'm using the MEAN stack for this project. I've also designed and implemented several commercial websites for companies.  I've also completed several software development courses.
+I'm currently working on a full-stack messaging application that communicates with a telegram user via a telegram bot. I'm using the MEAN stack for this project. Additionally, I've also designed and implemented several commercial websites for various companies. I've also completed several software development courses.
 
 Please see my portfolio below for detailed information and links to source code and demos.
 
@@ -24,9 +24,7 @@ I'm building this application to make use of the various full-stack related topi
 
 **2. Freelance Work**<br>
 
-I have designed and implemented the following websites from scratch for clients, using Javascript, HTML, CSS with Bootstrap.<br>
-My approach avoids the use of website generators like WordPress and CMS platforms, allowing me to apply and enhance my skills effectively.<br>
-These sites are reactive and present well on all mobile devices as well as full-sized computer screens.
+I have designed and implemented the following websites from scratch for clients, using Javascript, HTML, CSS with Bootstrap. My approach avoids the use of website generators like WordPress and CMS platforms, allowing me to apply and enhance my skills effectively. These sites are reactive and present well on all mobile devices as well as full-sized computer screens.
 
 - [Serendipity Storage](https://github.com/AnevRensburg/serendipity-storage)
 - [Symons Sport International](https://github.com/AnevRensburg/symons-sport)
