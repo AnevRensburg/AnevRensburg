@@ -37,7 +37,7 @@ As part of my high school programming curriculum, I completed the courses below 
 
 - [Modern Angular Bootcamp](https://github.com/AnevRensburg/the-modern-angular-bootcamp)
 - [MEAN Stack Front To Back](https://github.com/AnevRensburg/mean-stack-front-to-back)
-- [The Complete Web Development Bootcamp](https://github.com/AnevRensburg/the-modern-angular-bootcamp)
+- [The Complete Web Development Bootcamp]((https://github.com/AnevRensburg/the-complete-web-development-bootcamp))
 - [Advanced CSS and Sass](https://github.com/AnevRensburg/natours)
 <br><br>
 <hr>
